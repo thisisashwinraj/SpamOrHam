@@ -12,4 +12,4 @@ The libraries used are as mentioned below:
 	3. Natural Language Toolkit
 	4. Scikit-Learn
 	
-The accuracy achieved by the model is 0.992(approx)
+The accuracy achieved by the model is 0.992(approx). This repository is distributed under the MIT license.
